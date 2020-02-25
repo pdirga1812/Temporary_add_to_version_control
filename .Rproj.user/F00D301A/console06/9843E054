@@ -1,0 +1,9 @@
+]0;/home/rawr/Documents/R/Temporary_add_to_version_control(base) ]0;rawr@rawr-MS-7982: ~/Documents/R/Temporary_add_to_version_control[01;32mrawr@rawr-MS-7982[00m:[01;34m~/Documents/R/Temporary_add_to_version_control[00m$ git add .
+]0;/home/rawr/Documents/R/Temporary_add_to_version_control(base) ]0;rawr@rawr-MS-7982: ~/Documents/R/Temporary_add_to_version_control[01;32mrawr@rawr-MS-7982[00m:[01;34m~/Documents/R/Temporary_add_to_version_control[00m$ git init
+Initialized empty Git repository in /home/rawr/Documents/R/Temporary_add_to_version_control/.git/
+]0;/home/rawr/Documents/R/Temporary_add_to_version_control(base) ]0;rawr@rawr-MS-7982: ~/Documents/R/Temporary_add_to_version_control[01;32mrawr@rawr-MS-7982[00m:[01;34m~/Documents/R/Temporary_add_to_version_control[00m$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+]0;/home/rawr/Documents/R/Temporary_add_to_version_control(base) ]0;rawr@rawr-MS-7982: ~/Documents/R/Temporary_add_to_version_control[01;32mrawr@rawr-MS-7982[00m:[01;34m~/Documents/R/Temporary_add_to_version_control[00m$ git add .
